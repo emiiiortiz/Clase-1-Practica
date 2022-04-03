@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net5.0-windows7.0": {
       "PW3-2022-1C-Clase-1.Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -22,7 +22,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net5.0-windows7.0": [
       "PW3-2022-1C-Clase-1.Entidades >= 1.0.0"
     ]
   },
@@ -32,26 +32,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase-1-consola\\PW3-2022-1C-Clase-1-consola.csproj",
-      "projectName": "PW3-2022-1C-Clase-1-consola",
-      "projectPath": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase-1-consola\\PW3-2022-1C-Clase-1-consola.csproj",
+      "projectUniqueName": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase1-WinForm\\PW3-2022-1C-Clase1-WinForm.csproj",
+      "projectName": "PW3-2022-1C-Clase1-WinForm",
+      "projectPath": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase1-WinForm\\PW3-2022-1C-Clase1-WinForm.csproj",
       "packagesPath": "C:\\Users\\emior\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase-1-consola\\obj\\",
+      "outputPath": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase1-WinForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emior\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "projectReferences": {
             "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase-1.Entidades\\PW3-2022-1C-Clase-1.Entidades.csproj": {
               "projectPath": "C:\\Proyectos\\WEB 3\\Primera clase\\Clase-1-Practica\\PW3-2022-1C-Clase-1.Entidades\\PW3-2022-1C-Clase-1.Entidades.csproj"
@@ -66,8 +66,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -81,6 +81,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
