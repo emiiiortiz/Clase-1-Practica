@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PW3-2022-1C-Clase1-Bola8-Winform/1.0.0": {
+        "dependencies": {
+          "PW3-2022-1C-Clase-1.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "PW3-2022-1C-Clase1-Bola8-Winform.dll": {}
+        }
+      },
+      "PW3-2022-1C-Clase-1.Entidades/1.0.0": {
+        "runtime": {
+          "PW3-2022-1C-Clase-1.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PW3-2022-1C-Clase1-Bola8-Winform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PW3-2022-1C-Clase-1.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

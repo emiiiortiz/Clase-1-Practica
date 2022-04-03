@@ -34,8 +34,15 @@
             this.txtNum2 = new System.Windows.Forms.TextBox();
             this.btnSumar = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
+            // lblNum1
+            // 
+            this.lblNum1.Location = new System.Drawing.Point(0, 0);
+            this.lblNum1.Name = "lblNum1";
+            this.lblNum1.Size = new System.Drawing.Size(100, 23);
+            this.lblNum1.TabIndex = 6;
             // 
             // lblNum2
             // 
@@ -79,11 +86,21 @@
             this.lblResultado.TabIndex = 5;
             this.lblResultado.Text = "Resultado:";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(23, 23);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(63, 15);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Numero 1:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(486, 149);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnSumar);
             this.Controls.Add(this.txtNum2);
@@ -105,5 +122,6 @@
         private System.Windows.Forms.TextBox txtNum2;
         private System.Windows.Forms.Button btnSumar;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Label label1;
     }
 }
