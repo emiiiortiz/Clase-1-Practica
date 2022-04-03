@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PW3-2022-1C-Clase-1-consola/1.0.0": {
+        "runtime": {
+          "PW3-2022-1C-Clase-1-consola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PW3-2022-1C-Clase-1-consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

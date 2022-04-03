@@ -1,0 +1,12 @@
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\bin\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.deps.json
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\bin\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.dll
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\bin\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.pdb
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.csproj.AssemblyReference.cache
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.AssemblyInfoInputs.cache
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.AssemblyInfo.cs
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.dll
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\refint\PW3-2022-1C-Clase-1.Entidades.dll
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\PW3-2022-1C-Clase-1.Entidades.pdb
+C:\Proyectos\WEB 3\Primera clase\Clase-1-Practica\PW3-2022-1C-Clase-1.Entidades\obj\Debug\net5.0\ref\PW3-2022-1C-Clase-1.Entidades.dll
