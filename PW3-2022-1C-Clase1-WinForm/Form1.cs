@@ -18,8 +18,6 @@ namespace PW3_2022_1C_Clase1_WinForm
             InitializeComponent();
         }
 
-
-
         private void btnSumar_Click(object sender, EventArgs e)
         {
             lblResultado.Text = $"{Calculadora.Sumar(txtNum1.Text, txtNum2.Text)}";
